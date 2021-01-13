@@ -32,9 +32,9 @@ A list of things that I am currently learning.
 * ngrx
 * unit testing with Jasmine
 
-# Firebase
+## Firebase
 * Hosting a firebase database
 * Querying and pushing to a firebase database
 
-# React
+## React
 * JSX
