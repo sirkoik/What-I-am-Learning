@@ -38,3 +38,15 @@ A list of things that I am currently learning.
 
 ## React
 * JSX
+* components
+* hooks
+* useEffect
+* useMemo
+* useCallback
+* state management
+  * useState
+  * useReducer
+  * context
+* Redux
+* CSS Modules
+* Styled Components
